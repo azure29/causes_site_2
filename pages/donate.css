@@ -1,0 +1,49 @@
+div.container {
+	background-color: #b39480;
+	width: 100%;
+}
+div.jumbotron {
+	background-color:  #c9b49f;
+	border-style: solid;
+	border-width: 7px;
+	border-color: #fff;
+	margin-top: 10px;
+}
+.tag-h1 {
+	text-align: center;
+	color: #fff;
+}
+h1.tag-h1 {
+}
+.tag-h3 {
+	text-align: center;
+	color: #fff;
+}
+.tag-h5 {
+	text-align: center;
+}
+img.photo {
+	padding-left: 350px;
+	display: inline-block;
+}
+.tag-h3 {
+	text-align: center;
+	font-family: georgia, italic;
+}
+p {
+	font-family: georgia, italic;
+}
+h2 {
+	color: #fff;
+}
+h3.tagh3 {
+	text-align: center;
+	color: #fff;
+}
+h4 {
+	text-align: center;
+	font-family: georgia, italic;
+	font-size: 900;
+	text-transform: uppercase;
+	background-color: white;
+}

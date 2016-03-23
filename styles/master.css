@@ -1,0 +1,168 @@
+body {
+    background-color: #b39480;
+    height: 1300px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+a:link {
+    color: #6b5140;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #6b5140;
+}
+
+a:hover {
+    color: #ffffff;
+    font-style: italic;
+}
+
+a:active {
+    color: #ffffff;
+    font-style: italic;
+}
+
+ul.nav {
+    list-style-type: none;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+ul.nav li {
+    display: block;
+    padding: 20px;
+}
+
+nav {
+    text-align: right;
+    position: absolute;
+    left: 20px;
+    z-index: 1;
+}
+
+
+/*---------- Home ----------*/
+
+#para1 {
+    position: absolute;
+    left: 270px;
+}
+
+#para2 {
+    position: absolute;
+    top: 532px;
+    left: 270px;
+}
+
+#para3 {
+    position: absolute;
+    top: 734px;
+    left: 270px;
+}
+
+#para1 p,
+#para2 p,
+#para3 p {
+    width: 380px;
+    padding: 20px;
+    background-color: #c9b49f;
+}
+
+h2 {
+    margin: 0;
+    color: #ffffff;
+}
+
+#survivor {
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    left: 270px;
+    top: 930px;
+}
+
+
+/*---------- Info ----------*/
+
+.left-bar {
+    width: 200px;
+    height: 1000px;
+    background-color: #c9b49f;
+    position: absolute;
+    left: 50px;
+}
+
+.main-content {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#woman_child {
+    position: absolute;
+    ;
+    left: 270px;
+}
+
+#deaths {
+    position: absolute;
+    left: 270px;
+    top: 792px;
+}
+
+.main-text {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 684px;
+    margin: 39px 0px 0px 20px;
+}
+
+.main-text p {
+    padding: 20px;
+    background-color: #c9b49f;
+}
+
+h3 {
+    text-align: center;
+    font-family: Georgia;
+    color: #ffffff;
+}
+#title-1 {
+	background-color: #c9b49f;
+	text-align: center;
+}
+
+
+/*---------- Forms ----------*/
+
+h1 {
+    position: absolute;
+    left: 566.5px;
+    top: 300px;
+    width: 317px;
+    font-style: italic;
+    color: #ffffff;
+}
+
+#contact {
+    position: absolute;
+    ;
+    left: 270px;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #c9b49f;
+    margin: 215px 0px;
+    padding: 100px;
+    background-color: #b39480;
+}
+
+form {
+    padding: 20px;
+    background-color: #c9b49f;
+    width: 640px;
+    height: 300px;
+}
